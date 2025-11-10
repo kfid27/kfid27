@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @kfid27
 - 👀 I’m interested in learning anything new  
-- 🌱 I’m currently learning how to set up falcon pi player on my mac
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning how to set up my webpage via cloudflare and Git
 
 <!---
 kfid27/kfid27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
